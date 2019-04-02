@@ -1,12 +1,13 @@
-title: A bjlog
-author: Ben Lavelle
+title: benlavelle.github.io
+author: B Lavelle
 description: > # this means to ignore newlines until "baseurl:"
-  A personal page for B Lavelle on github.io. Not much to see here
-  for the moment, but one day maybe it'll be the start of a shiny CV.
-# social links
+  A personal site on [github.io](https://pages.github.com) that 
+  might one day be a CV but will never be a blog.
+  
+# social links 
 facebook_username: benlavelle
 github_username:  ben-lavelle
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-cayman
+theme: minimal
